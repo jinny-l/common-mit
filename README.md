@@ -25,3 +25,9 @@ CS16 공통 프로젝트 저장소
 
 ## ✅ PR 요구사항
 - [ ] 1개 명령어 당 1개의 PR을 진행
+
+---
+
+https://kitty-geno.tistory.com/170
+https://offbyone.tistory.com/286
+https://bamdule.tistory.com/233
